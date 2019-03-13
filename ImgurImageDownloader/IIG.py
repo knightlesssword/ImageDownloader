@@ -12,7 +12,8 @@ import pprint
 
 browser = webdriver.Chrome()
 print ("\t\t\tImgur Image Downloader")
-print ("\t\tby Abu Bakr")
+print ("\t\tby Knightlesssword")
+print ("\t https://github.com/knightlesssword ;)")
 def enumWindowFunc(hwnd, windowList):
    
     text = win32gui.GetWindowText(hwnd)
